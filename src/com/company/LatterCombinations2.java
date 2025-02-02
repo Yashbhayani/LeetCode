@@ -10,7 +10,7 @@ public class LatterCombinations2 {
         }
 
         String[] digitToLetters = {
-                "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
+               "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
 
         Queue<String> queue = new LinkedList<>();
